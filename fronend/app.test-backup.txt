@@ -1,0 +1,18 @@
+
+export default function App() {
+  return (
+    <div
+      style={{
+        minHeight: "100vh",
+        backgroundColor: "#f0fdf4",
+        color: "#166534",
+        padding: "40px",
+        fontFamily: "Arial, sans-serif",
+      }}
+    >
+      <h1>SmartEvent is Working!</h1>
+      <p>React is rendering successfully.</p>
+    </div>
+  );
+}
+
